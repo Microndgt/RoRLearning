@@ -4,6 +4,7 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+.idea
 # Ignore bundler config.
 /.bundle
 
@@ -72,6 +73,3 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
-
-.idea/*
-.idea
